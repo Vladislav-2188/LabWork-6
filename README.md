@@ -1,5 +1,5 @@
 # Лабораторна робота №6: Дослідження системи LORAN
-
+## [![Открыть в CodePen](https://img.shields.io/badge/CodePen-Open%20Project-blue?style=for-the-badge&logo=codepen)](https://codepen.io/ffcnismw-the-sasster/pen/gbYWYzJ)
 ## Мета роботи
 Розробити та дослідити систему візуалізації даних навігаційної системи LORAN з використанням методу найменших квадратів для визначення положення об'єкта на основі різниці часу прибуття сигналів від базових станцій.
 
